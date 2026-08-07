@@ -2,6 +2,8 @@ Section A – Insert Tasks
 Task 0
 
 Import the student_level2.json using the mongoimport
+ or
+Use the import in the Compas
 
 Task 1
 
